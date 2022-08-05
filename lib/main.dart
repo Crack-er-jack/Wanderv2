@@ -221,7 +221,7 @@ class _HomePageState extends State<HomePage> with AutomaticKeepAliveClientMixin 
                     MaterialPageRoute(
                       builder: (context) {
                         return PlacePicker(
-                          apiKey: 'AIzaSyAK-4T1unDFsqv4LB_CL7NxY8Gl0cp2yBs',
+                          apiKey: '****************************************',
                           initialPosition: HomePage.kInitialPosition,
                           useCurrentLocation: true,
                           selectInitialPosition: true,
